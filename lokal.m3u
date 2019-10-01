@@ -1,0 +1,98 @@
+#EXTM3U
+
+#EXTINF:0, group-title="LOCAL",NET HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+
+#EXTINF:0, group-title="LOCAL",TRANSTV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOCAL",TRANSTV [TC]
+https://stream-03.sg1.dailymotion.com/sec(E-jzZRG7S4T1sGdliNQCuS46-jia-XZtLJaQkGPSl1w)/dm/3/x4nwi47/s/live-2.m3u8
+
+#EXTINF:0, group-title="LOCAL",TRANS7
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOCAL",TRANS7 [TC]
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:0, group-title="LOCAL",RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOCAL",SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOCAL",SCTV 1
+http://210.210.155.35/session/71c6b966-c574-11e9-9d80-b82a72d63267/qwr9ew/s/s103/01.m3u8
+
+#EXTINF:0, group-title="LOCAL",SCTV HD
+http://210.210.155.35/session/681c4d16-c5b2-11e9-88b5-c81f66f89318/qwr9ew/s/s103/01.m3u8
+
+#EXTINF:0, group-title="LOCAL",MNCTV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOCAL",MNC
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOCAL",INDOSIAR
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOCAL",ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOCAL",GLOBAL TV
+http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOCAL",METROTV
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOCAL",METROTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w645905961_b1128000_sleng.m3u8
+
+#EXTINF:0, group-title="LOCAL",TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOCAL",INEWS
+http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOCAL",RTV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOCAL",JTV
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+
+#EXTINF:0, group-title="LOCAL",METROTV HD 1
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+
+#EXTINF:0, group-title="LOCAL",METROTV HD 2
+http://210.210.155.35/session/7c30f4b4-b6ef-11e8-b712-b82a72d63267/qwr9ew/s/s49/01.m3u8
+
+#EXTINF:0, group-title="LOCAL",MNCTV SPORT
+http://202.80.222.130/000001/2/ch00000090990000001753?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOCAL",KOMPAS TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOCAL",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
+#EXTINF:0, group-title="LOCAL",SINDO TV
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOCAL",RODJA TV
+http://45.126.83.51/qwr9ew/s/s14/index2.m3u8
+
+#EXTINF:0, group-title="LOCAL",FOODIE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
+
+#EXTINF:0, group-title="SPORTS",LIGA GOJEK
+http://id1.indostreamingtv.com/live/tv11/index.m3u8
+
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/cnn_id.png" tvg-id="bfce5bb7a29c849a4f87d5a417bdd239",CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/tvri_id.png" tvg-id="f8819a7289e606231224d8a49c7b9ac1",TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/tvri_id.png" tvg-id="f8819a7289e606231224d8a49c7b9ac1",TVRI DKI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(02)/index.m3u8
